@@ -1,0 +1,37 @@
+Weapon1HandedSword#Меч#|
+Weapon1HandedSwordBeam#Меч#|
+Weapon1HandedSwordProjectile#Меч#|
+Weapon1HandedSwordSummon#Меч#|
+Weapon2HandedSword#Двуручный Меч#|
+Weapon2HandedSwordBeam#Двуручный Меч#|
+Weapon2HandedSwordProjectile#Двуручный Меч#|
+Weapon2HandedSwordSummon#Двуручный Меч#|
+WeaponBattleAxe#Боевой Топор#|
+WeaponBow#Лук#Гибкий лук из дерева и нити. Стреляет стрелами с умеренной скоростью|
+WeaponBowMagic#Магический Лук#Лук, вытравленный магическими рунами|
+WeaponBowStarting#Сломанный Лук#Слабо заряженный лук|
+WeaponClub#Бита#|
+WeaponClubBeam#Бита#|
+WeaponClubProjectile#Бита#|
+WeaponClubStarting#Бита#|
+WeaponClubSummon#Бита#|
+WeaponCrossbow#Арбалет#|
+WeaponDagger#Кинжал#|
+WeaponDaggerBeam#Кинжал#|
+WeaponDaggerProjectile#Кинжал#|
+WeaponDaggerSummon#Кинжал#|
+WeaponMagicStaff#Магический Посох#Посох, пронизанный сильной магией|
+WeaponSling#Праща#Самодельное оружие дальнего боя|
+WeaponSlingProjectile#Магическая Праща#Очарованное дальное оружие|
+WeaponSlingStarting#Праща#Самодельное оружие дальнего боя|
+WeaponSpear#Копье#|
+WeaponSpearBeam#Копье#|
+WeaponSpearProjectile#Копье#|
+WeaponSpearSummon#Копье#|
+WeaponStarting#Ржавый клинок#Старый ржавый клинок с тупым концом|
+WeaponStartingThievingKnife#Тренировочный Нож#|
+WeaponThrowingKnives#Метательные Ножи#|
+WeaponThrowingKnivesBeam#Метательные Ножи#|
+WeaponThrowingKnivesProjectile#Метательные Ножи#|
+WeaponThrowingKnivesSummon#Метательные Ножи#|
+WeaponTutorial#Учебный клинок#Старый ржавый клинок с тупым концом|
